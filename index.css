@@ -1,0 +1,216 @@
+.wholebody{
+    border-radius: 30px;
+    width: 30%;
+    height: 100vh;
+    position: relative;
+    left: 30%;
+    background-color: black;
+    display: grid;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr */
+}
+
+.icons{
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    left: 88%;
+    top: 1%;
+
+}
+section div{
+    color: white;
+    justify-items: center;
+}
+
+
+.classone{
+    justify-items: end;
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+
+.classeighteen{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.classthree button{
+    /* background-color: #ff9f0a; */
+}
+
+.sectiontwo{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2em;
+    padding: 40px;
+    margin-top: 30%;
+}
+
+.classtwo button{
+    /* border: 10px solid;
+    border-radius: 100%; */
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #a5a5a5;
+}
+
+.classthree button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #a5a5a5;
+}
+
+.classfour button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #a5a5a5;
+}
+
+.classfive button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #ff9f0a;
+    color: white;
+}
+
+.classsix button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.classseven button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.classeight button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.classnine button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #ff9f0a;
+    color: white;
+}
+
+.classten button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.classeleven button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.classtwelve button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.classthirteen button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #ff9f0a;
+    color: white;
+}
+
+.classfourteen button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.classfifteen button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.classsixteen button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.classseventeen button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: #ff9f0a;
+    color: white;
+}
+
+.classeighteen button{
+    width: 150px;
+    height: 70px;
+    border-radius: 50px;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.classnineteen button{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.classtwenty button{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    justify-content: center;
+    background-color: #ff9f0a;
+    color: white;
+}
